@@ -4,4 +4,5 @@ Craigslist Phone scraper
 * install tampermonkey exteions to your chrome browser. add scirpt for captcha solver 
 * copy user data and make 10 folder ( for 10 threads)
 * rename folder rrf1,rrf2------,rrf10
+** run python -m CLBotPhone.py ( pass arugment and user input following commands )
 
