@@ -7,3 +7,4 @@ Craigslist Phone scraper
 ** run python -m CLBotPhone.py ( pass arugment and user input following commands )
 
 **** any issue write comment here ********
+user pip install -r requirements.txt
