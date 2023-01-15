@@ -3,7 +3,6 @@ from typing import DefaultDict
 from selenium.common.exceptions import TimeoutException
 from selenium import webdriver
 from selenium.webdriver.common import keys
-from webdriver_manager import driver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
